@@ -1,0 +1,1 @@
+Next group meeting: 30-11-2026.
