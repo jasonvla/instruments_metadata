@@ -1,1 +1,1 @@
-Next group meeting: 30-11-2026.
+Place for the website
