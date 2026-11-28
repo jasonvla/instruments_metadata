@@ -1,3 +1,6 @@
 *ai-outperforms-us/
 .DS_Store
 *.history/
+# pixi environments
+.pixi/*
+!.pixi/config.toml
